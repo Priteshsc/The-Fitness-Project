@@ -1,0 +1,28 @@
+[26-Jul-2021 10:39:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/donbojdu/public_html/don_bosco/admission/form_commerce_submit.php:319
+Stack trace:
+#0 {main}
+  thrown in /home1/donbojdu/public_html/don_bosco/admission/form_commerce_submit.php on line 319
+[26-Jul-2021 10:40:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/donbojdu/public_html/don_bosco/admission/form_commerce_submit.php:319
+Stack trace:
+#0 {main}
+  thrown in /home1/donbojdu/public_html/don_bosco/admission/form_commerce_submit.php on line 319
+[26-Jul-2021 10:44:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/donbojdu/public_html/don_bosco/admission/form_commerce_submit.php:319
+Stack trace:
+#0 {main}
+  thrown in /home1/donbojdu/public_html/don_bosco/admission/form_commerce_submit.php on line 319
+[26-Jul-2021 10:48:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/donbojdu/public_html/don_bosco/admission/form_science_submit.php:319
+Stack trace:
+#0 {main}
+  thrown in /home1/donbojdu/public_html/don_bosco/admission/form_science_submit.php on line 319
+[26-Jul-2021 10:52:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/donbojdu/public_html/don_bosco/admission/form_science_submit.php:319
+Stack trace:
+#0 {main}
+  thrown in /home1/donbojdu/public_html/don_bosco/admission/form_science_submit.php on line 319
+[26-Jul-2021 11:21:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/donbojdu/public_html/don_bosco/admission/form_science_submit.php:319
+Stack trace:
+#0 {main}
+  thrown in /home1/donbojdu/public_html/don_bosco/admission/form_science_submit.php on line 319
+[26-Jul-2021 11:23:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/donbojdu/public_html/don_bosco/admission/form_science_submit.php:319
+Stack trace:
+#0 {main}
+  thrown in /home1/donbojdu/public_html/don_bosco/admission/form_science_submit.php on line 319
